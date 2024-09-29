@@ -2,7 +2,7 @@
 
 
 
-
+```
 
 /project-root
 │
@@ -19,3 +19,5 @@
 │   └── /config           # Configurações globais (e.g., leitura de env)
 │
 └── /pkg                  # Pacotes reutilizáveis e exportáveis
+
+```
